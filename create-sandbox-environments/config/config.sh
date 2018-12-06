@@ -1,0 +1,8 @@
+DOMAIN="example.com"
+BILLING_ACCOUNT_ID="012345-6789AB-CDEEF01"
+DOMAIN_ADMIN_USER="domain.admin@example.com"
+BILLING_ADMIN_USER="billing.admin@example.com"
+TRAINING_FOLDER_NAME="training-sandbox-projects"
+TRAINING_PARTICIPANTS="participant1@example.com participant2@example.com participant3@example.com"
+PROJECT_ROLES="roles/editor roles/logging.privateLogViewer roles/logging.configWriter"
+APIS_TO_ENABLE="bigquery-json.googleapis.com storage-component.googleapis.com storage-api.googleapis.com"
